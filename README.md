@@ -1,8 +1,11 @@
 # room
 This project is developed using pure legacy OpenGL using c++.
 It was the first homework of the computer graphics course from Sharif University of Technology, spring of 2014.
+
 The lighting technique is a simple creative technique of my own. :D
+
 Textures seen on the walls and on the floor are not textures read from an image, those patterns are created through a random function which generates the related vertices.
+
 When the clock reaches 12:00, a boxing glove will pop out of the clock for 3 times.
 
 controls:
